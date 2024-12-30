@@ -34,5 +34,3 @@
 - `/forceverify [user]` Force a user to reverify.
 - `/serverinfo` Lists information about the current server.
 - `/userinfo [user]` Lists information about a chosen user.
-- `/kick [user] [reason]` Kick a user from your server.
-- `/ban [user] [reason]` Ban a user from your server.
