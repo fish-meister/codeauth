@@ -5,9 +5,16 @@
 1. Set up a verification channel and a role for verified users.
    - `/setchannel [channel]`
    - `/setrole [role]`
+  
+   ![image](https://github.com/user-attachments/assets/7b1a91a4-1e91-4f36-bd55-a76b1c4b6210)
+   ![image](https://github.com/user-attachments/assets/496cec8b-b7c0-4855-a476-96b63d76322d)
+
+
 3. Adjust permissions to restrict access to unverified members.
 4. Adjust permissions for your staff team for command access.
    - Alternatively setup a team using `/setstaff [role]`
+   
+   ![image](https://github.com/user-attachments/assets/9c2ee3af-5106-4428-8197-afb2843e595a)
 5. Enjoy seamless automated security with just **2 simple commands**!
 
 ### **Additional Features**
